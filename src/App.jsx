@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <h1>Hello, Vite!</h1>
-      <Button text="Contador: " />
+      <Button text="Aleatorio:  "/>
     </>
   )
 }
